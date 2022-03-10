@@ -1,5 +1,10 @@
 # "python3 helloworld.py" pour lancer ds terminal
 
+# ligne unique
+"""
+lignes multiples
+"""
+
 livre = "Gatsby le Magnifique"
 livre = "On the road"
 print(livre)
