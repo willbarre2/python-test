@@ -1,4 +1,4 @@
-# "python3 helloworld.py" pour lancer ds terminal
+# "python helloworld.py" pour lancer ds terminal
 
 # ligne unique
 """

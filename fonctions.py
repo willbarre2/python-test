@@ -1,4 +1,4 @@
-# "python3 fonctions.py" pour lancer ds terminal
+# "python fonctions.py" pour lancer ds terminal
 
 def add(a, b):
   return a + b

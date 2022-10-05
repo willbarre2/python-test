@@ -1,4 +1,4 @@
-# "python3 boucles.py" pour lancer ds terminal
+# "python boucles.py" pour lancer ds terminal
 
 races_de_chien = ["golden retriever", "chihuahua", "terrier", "carlin"]
 for chien in races_de_chien:

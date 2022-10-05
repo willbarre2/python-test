@@ -1,4 +1,4 @@
-# "python3 conditions.py" pour lancer ds terminal
+# "python conditions.py" pour lancer ds terminal
 
 avec_soleil = True
 en_semaine = False
